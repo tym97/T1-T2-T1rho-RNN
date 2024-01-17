@@ -1,1 +1,1 @@
-# T1-T2-T1rho_RNN
+# T1-T2-T1rho-RNN
